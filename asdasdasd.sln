@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2rek", "asdasdasd\zad2rek.csproj", "{675FFE18-D899-4596-A79C-B4C13CB3B347}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad3rekurenciq", "zad3rekurenciq\zad3rekurenciq.csproj", "{68AD8005-9291-48C6-80AA-E765E2E732B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad4rekurenciq", "zad4rekurenciq\zad4rekurenciq.csproj", "{FF4153EA-10D3-418F-B55D-80E4CCC894EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{68AD8005-9291-48C6-80AA-E765E2E732B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68AD8005-9291-48C6-80AA-E765E2E732B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68AD8005-9291-48C6-80AA-E765E2E732B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4153EA-10D3-418F-B55D-80E4CCC894EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4153EA-10D3-418F-B55D-80E4CCC894EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4153EA-10D3-418F-B55D-80E4CCC894EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4153EA-10D3-418F-B55D-80E4CCC894EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
